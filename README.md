@@ -1,0 +1,2 @@
+# IDEATA
+Novell NetWare driver
